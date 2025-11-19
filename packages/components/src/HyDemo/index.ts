@@ -1,1 +1,1 @@
-export { default as HyDemo } from "./index.vue";
+export { default as HyDemo } from "./HyDemo.vue";
