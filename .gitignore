@@ -35,3 +35,4 @@ coverage/
 .git/
 
 # Custom
+pnpm-lock.yaml
