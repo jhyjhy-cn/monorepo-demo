@@ -1,6 +1,6 @@
 {
   "import": ["@cspell/dict-lorem-ipsum/cspell-ext.json"],
-  "caseSensitive": true,
+  "caseSensitive": false,
   "dictionaries": ["custom-dictionary"],
   "dictionaryDefinitions": [
     {
@@ -22,8 +22,9 @@
     "**/tmp/**",
     "**/*.d.ts",
     "**/package.json",
+    "**/*.md",
     "**/stats.html",
-    "eslint.config.js",
+    "eslint.config.mjs",
     ".gitignore",
     ".prettierignore",
     "cspell.json",

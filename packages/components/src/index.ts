@@ -1,1 +1,1 @@
-console.log("Hello from components");
+export * from "./HyDemo";
