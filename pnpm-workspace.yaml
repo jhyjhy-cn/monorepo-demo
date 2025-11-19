@@ -1,0 +1,5 @@
+
+# 子包位置
+packages:
+  - "packages/*"
+  - "apps/*"
