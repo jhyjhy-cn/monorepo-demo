@@ -1,5 +1,5 @@
 import { render } from "vitest-browser-vue";
-import { page } from "@vitest/browser/context";
+import { page } from "vitest/browser";
 import HyDemo from "../src/HyDemo/HyDemo.vue";
 
 describe("HyDemo.vue", () => {
